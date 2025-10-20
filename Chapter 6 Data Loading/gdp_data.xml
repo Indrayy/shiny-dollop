@@ -1,0 +1,2103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <Country_Territory_Country_Territory>World</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>113795678</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>105435540</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>100834796</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>United States</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>30507217</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>27360935</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>25744100</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>China</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>19231705</IMF_1__12__Forecast>
+    <IMF_1__12__Year>[n 1]2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>17794782</World_Bank_13__Estimate>
+    <World_Bank_13__Year>[n 3]2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>17963170</United_Nations_14__Estimate>
+    <United_Nations_14__Year>[n 1]2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Germany</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>4744804</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>4456081</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>4076923</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>India</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>4187017</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>3549919</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>3465541</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Japan</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>4186431</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>4212945</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>4232173</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>United Kingdom</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>3839180</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>3340032</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>3089072</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>France</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>3211292</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>3030904</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>2775316</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Italy</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>2422855</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>2254851</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>2046952</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Canada</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>2225341</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>2140086</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>2137939</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Brazil</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>2125958</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>2173666</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>1920095</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Russia</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>2076396</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>2021421</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>2240422</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Spain</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>1799511</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>1580695</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>1415874</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>South Korea</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>1790322</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>1712793</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>1673916</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Australia</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>1771681</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>1723827</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>1776577</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Mexico</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>1692640</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>1788887</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>1463323</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Turkey</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>1437406</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>1108022</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>907118</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Indonesia</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>1429743</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>1371171</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>1319100</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Netherlands</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>1272011</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>1118125</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>1008027</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Saudi Arabia</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>1083749</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>1067583</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>1108148</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Poland</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>979960</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>811229</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>688125</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Switzerland</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>947125</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>884940</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>818426</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Taiwan</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>804889</IMF_1__12__Forecast>
+    <IMF_1__12__Year>[n 4]2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>—</World_Bank_13__Estimate>
+    <World_Bank_13__Year>—</World_Bank_13__Year>
+    <United_Nations_14__Estimate>—</United_Nations_14__Estimate>
+    <United_Nations_14__Year>—</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Belgium</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>684864</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>632217</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>582643</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Argentina</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>683533</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>640591</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>631133</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Sweden</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>620297</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>593268</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>591188</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Ireland</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>598840</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>545629</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>532415</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Israel</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>583361</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>509902</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>525002</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Singapore</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>564774</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>501428</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>466788</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>United Arab Emirates</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>548598</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>504173</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>507063</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Thailand</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>546224</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>514945</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>495340</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Austria</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>534301</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>516034</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>470302</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Norway</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>504276</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>485513</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>579422</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Philippines</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>497495</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>437146</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>404284</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Vietnam</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>490970</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>429717</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>408802</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Malaysia</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>488784</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>399649</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>406305</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Bangladesh</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>467218</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>437415</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>432677</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Denmark</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>449940</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>404199</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>400167</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Iran</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>446313</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>401505</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>398047</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Colombia</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>427766</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>363540</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>343939</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Hong Kong</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>423999</IMF_1__12__Forecast>
+    <IMF_1__12__Year>[n 5]2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>382055</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>359838</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>South Africa</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>410338</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>377782</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>405270</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Romania</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>403395</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>351003</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>300690</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Czech Republic</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>360244</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>330858</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>290527</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Egypt</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>347342</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>395926</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>409306</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Chile</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>343823</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>335533</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>300686</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Pakistan</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>—</IMF_1__12__Forecast>
+    <IMF_1__12__Year>—</IMF_1__12__Year>
+    <World_Bank_13__Estimate>338368</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>326796</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_/>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Portugal</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>321440</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>287080</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>254849</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Finland</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>303945</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>300187</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>282511</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Peru</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>303293</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>267603</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>242631</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Kazakhstan</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>300538</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>261421</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>225496</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Algeria</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>268885</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>239899</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>191912</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Greece</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>267348</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>238206</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>217285</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Iraq</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>258020</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>250843</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>264182</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>New Zealand</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>248666</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>253466</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>245845</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Hungary</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>237070</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>212389</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>177337</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Qatar</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>222776</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>235770</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2022</World_Bank_13__Year>
+    <United_Nations_14__Estimate>237101</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Ukraine</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>205742</IMF_1__12__Forecast>
+    <IMF_1__12__Year>[n 6]2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>178757</World_Bank_13__Estimate>
+    <World_Bank_13__Year>[n 6]2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>160502</United_Nations_14__Estimate>
+    <United_Nations_14__Year>[n 6]2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Nigeria</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>188271</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>362815</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>475058</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Morocco</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>165835</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>141109</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>130912</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Kuwait</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>153101</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>161772</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>175363</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Cuba</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>—</IMF_1__12__Forecast>
+    <IMF_1__12__Year>—</IMF_1__12__Year>
+    <World_Bank_13__Estimate>—</World_Bank_13__Estimate>
+    <World_Bank_13__Year>—</World_Bank_13__Year>
+    <United_Nations_14__Estimate>147193</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_/>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Slovakia</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>147031</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>132794</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>115304</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Uzbekistan</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>132484</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>90889</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>80391</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Kenya</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>131673</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>107441</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>113419</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Dominican Republic</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>127828</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>121444</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>113537</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Ecuador</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>125677</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>118845</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>115049</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Puerto Rico</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>122522</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>117902</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>113434</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Guatemala</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>121177</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>102050</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>95003</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Ethiopia</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>117457</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>163698</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>118971</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Bulgaria</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>117007</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>101584</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>90213</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Angola</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>113343</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>84773</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>113304</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Venezuela</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>108511</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>—</World_Bank_13__Estimate>
+    <World_Bank_13__Year>—</World_Bank_13__Year>
+    <United_Nations_14__Estimate>129313</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Oman</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>104351</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>108192</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>114666</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Costa Rica</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>102591</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>86498</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>68380</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Croatia</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>98951</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>82689</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>71552</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Luxembourg</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>96613</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>85755</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>81530</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Ivory Coast</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>94483</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>78789</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>70018</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Serbia</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>92549</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>75187</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>63563</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Panama</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>91675</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>83382</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>76522</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Lithuania</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>89192</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>77836</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>70878</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Turkmenistan</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>89054</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>59887</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>67009</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Ghana</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>88332</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>76370</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>73766</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Tanzania</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>85977</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>79158</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>73535</United_Nations_14__Estimate>
+    <United_Nations_14__Year>[n 7]2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Sri Lanka</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>—</IMF_1__12__Forecast>
+    <IMF_1__12__Year>—</IMF_1__12__Year>
+    <World_Bank_13__Estimate>84357</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>76187</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_/>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Uruguay</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>79731</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>77241</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>71171</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>DR Congo</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>79119</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>66383</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>62551</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Azerbaijan</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>78870</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>72356</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>78721</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Slovenia</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>75224</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>68217</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>59981</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Belarus</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>71561</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>71857</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>72873</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Myanmar</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>64944</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>64815</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>65211</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Uganda</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>64277</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>49273</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>48243</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Bolivia</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>56339</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>45850</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>44008</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Tunisia</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>56291</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>48530</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>46181</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Jordan</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>56102</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>50814</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>47452</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Cameroon</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>56011</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>47946</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>44341</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Macau</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>53354</IMF_1__12__Forecast>
+    <IMF_1__12__Year>[n 8]2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>47062</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>24042</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Cambodia</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>49799</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>31773</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>29504</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Bahrain</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>47829</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>43205</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>44382</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Libya</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>47484</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>50492</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>40537</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Nepal</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>46080</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>40908</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>39406</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Latvia</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>45535</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>43627</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>40876</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Paraguay</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>45465</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>42956</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>41722</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Estonia</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>45004</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>40745</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>38049</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Cyprus</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>38736</IMF_1__12__Forecast>
+    <IMF_1__12__Year>[n 9]2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>32230</World_Bank_13__Estimate>
+    <World_Bank_13__Year>[n 9]2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>29210</United_Nations_14__Estimate>
+    <United_Nations_14__Year>[n 9]2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Honduras</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>38172</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>34401</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>31717</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Zimbabwe</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>38172</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>26538</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>26418</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>El Salvador</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>36749</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>34016</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>32488</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Georgia</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>35353</IMF_1__12__Forecast>
+    <IMF_1__12__Year>[n 10]2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>30536</World_Bank_13__Estimate>
+    <World_Bank_13__Year>[n 10]2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>24605</United_Nations_14__Estimate>
+    <United_Nations_14__Year>[n 10]2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Iceland</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>35309</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>31020</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>28064</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Senegal</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>34728</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>31014</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>27775</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Haiti</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>33548</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>19851</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>18751</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Papua New Guinea</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>32835</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>30933</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2022</World_Bank_13__Year>
+    <United_Nations_14__Estimate>31609</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Sudan</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>31506</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>109327</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>36729</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Guinea</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>30094</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>23612</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>20846</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Zambia</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>28910</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>28163</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>29136</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Bosnia and Herzegovina</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>28807</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>27055</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>24473</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Albania</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>28372</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>22978</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>18916</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Burkina Faso</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>27056</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>20325</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>19176</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Trinidad and Tobago</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>26467</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>28140</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>30053</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Armenia</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>26258</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>24212</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>19513</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Guyana</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>25822</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>16786</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>14718</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Mongolia</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>25804</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>19872</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>17146</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Malta</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>25750</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>20957</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>18100</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Mozambique</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>23771</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>20625</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>18406</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Mali</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>23208</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>20905</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>18827</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Benin</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>22236</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>19673</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>17396</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Niger</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>21874</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>16819</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>15414</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Jamaica</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>21411</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>19423</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>17097</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Nicaragua</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>21155</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>17829</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>15671</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Gabon</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>20391</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>20516</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>20132</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Kyrgyzstan</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>19849</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>13782</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>12560</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Moldova</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>19462</IMF_1__12__Forecast>
+    <IMF_1__12__Year>[n 11]2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>16539</World_Bank_13__Estimate>
+    <World_Bank_13__Year>[n 11]2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>14510</United_Nations_14__Estimate>
+    <United_Nations_14__Year>[n 11]2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Botswana</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>19400</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>19396</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>20352</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Chad</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>18792</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>13149</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>16799</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Madagascar</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>18708</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>16032</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>14954</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Palestine</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>18602</IMF_1__12__Forecast>
+    <IMF_1__12__Year>[n 12]2023</IMF_1__12__Year>
+    <World_Bank_13__Estimate>17396</World_Bank_13__Estimate>
+    <World_Bank_13__Year>[n 12]2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>19111</United_Nations_14__Estimate>
+    <United_Nations_14__Year>[n 13]2022</United_Nations_14__Year>
+    <close_time_>2023-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Syria</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>—</IMF_1__12__Forecast>
+    <IMF_1__12__Year>—</IMF_1__12__Year>
+    <World_Bank_13__Estimate>8980</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2021</World_Bank_13__Year>
+    <United_Nations_14__Estimate>18595</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_/>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Lebanon</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>—</IMF_1__12__Forecast>
+    <IMF_1__12__Year>—</IMF_1__12__Year>
+    <World_Bank_13__Estimate>17937</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>39303</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_/>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>North Macedonia</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>17885</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>14761</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>13711</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Yemen</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>17401</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>—</World_Bank_13__Estimate>
+    <World_Bank_13__Year>—</World_Bank_13__Year>
+    <United_Nations_14__Estimate>11007</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Laos</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>16322</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>15843</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>15362</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Brunei</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>16007</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>15128</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>16681</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Mauritius</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>15495</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>14397</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>12898</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Congo</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>15281</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>15321</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>15344</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Bahamas</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>15178</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>14339</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>12897</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>North Korea</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>—</IMF_1__12__Forecast>
+    <IMF_1__12__Year>—</IMF_1__12__Year>
+    <World_Bank_13__Estimate>—</World_Bank_13__Estimate>
+    <World_Bank_13__Year>—</World_Bank_13__Year>
+    <United_Nations_14__Estimate>15176</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_/>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Tajikistan</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>14836</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>12061</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>10492</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Rwanda</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>14771</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>14098</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>13312</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Afghanistan</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>—</IMF_1__12__Forecast>
+    <IMF_1__12__Year>—</IMF_1__12__Year>
+    <World_Bank_13__Estimate>14502</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2022</World_Bank_13__Year>
+    <United_Nations_14__Estimate>14174</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_/>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Namibia</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>14214</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>12351</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>12607</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Malawi</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>13959</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>14084</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>12558</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Somalia</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>12994</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>11680</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>10420</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Equatorial Guinea</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>12684</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>12117</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>11767</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Mauritania</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>11470</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>10453</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>10997</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Kosovo</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>11274</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>10438</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>9397</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Togo</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>10023</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>9171</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>8087</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>New Caledonia</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>—</IMF_1__12__Forecast>
+    <IMF_1__12__Year>—</IMF_1__12__Year>
+    <World_Bank_13__Estimate>9623</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2022</World_Bank_13__Year>
+    <United_Nations_14__Estimate>9623</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_/>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Monaco</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>—</IMF_1__12__Forecast>
+    <IMF_1__12__Year>—</IMF_1__12__Year>
+    <World_Bank_13__Estimate>8784</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2022</World_Bank_13__Year>
+    <United_Nations_14__Estimate>8772</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_/>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Montenegro</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>8562</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>7405</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>6229</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Sierra Leone</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>8386</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>3810</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>3481</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Bermuda</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>—</IMF_1__12__Forecast>
+    <IMF_1__12__Year>—</IMF_1__12__Year>
+    <World_Bank_13__Estimate>7828</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2022</World_Bank_13__Year>
+    <United_Nations_14__Estimate>7546</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_/>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Barbados</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>7552</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>6394</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>5699</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Maldives</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>7480</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>6600</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>6170</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Liechtenstein</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>—</IMF_1__12__Forecast>
+    <IMF_1__12__Year>—</IMF_1__12__Year>
+    <World_Bank_13__Estimate>7365</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2022</World_Bank_13__Year>
+    <United_Nations_14__Estimate>7757</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_/>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Burundi</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>6745</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>2642</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>4032</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Cayman Islands</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>—</IMF_1__12__Forecast>
+    <IMF_1__12__Year>—</IMF_1__12__Year>
+    <World_Bank_13__Estimate>6601</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2022</World_Bank_13__Year>
+    <United_Nations_14__Estimate>6281</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_/>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Fiji</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>6257</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>5495</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>4979</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>French Polynesia</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>—</IMF_1__12__Forecast>
+    <IMF_1__12__Year>—</IMF_1__12__Year>
+    <World_Bank_13__Estimate>5815</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2022</World_Bank_13__Year>
+    <United_Nations_14__Estimate>5814</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_/>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Eswatini</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>5483</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>4598</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>4326</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Liberia</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>5166</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>4332</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>3265</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Djibouti</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>4587</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>4099</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>4003</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Suriname</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>4506</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>3782</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>3620</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Aruba</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>4100</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>3545</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2022</World_Bank_13__Year>
+    <United_Nations_14__Estimate>3544</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Andorra</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>4035</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>3728</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>3376</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>South Sudan</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>3998</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>—</World_Bank_13__Estimate>
+    <World_Bank_13__Year>—</World_Bank_13__Year>
+    <United_Nations_14__Estimate>4616</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Belize</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>3611</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>3282</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>2830</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Bhutan</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>3422</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>2898</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2022</World_Bank_13__Year>
+    <United_Nations_14__Estimate>2898</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Curaçao</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>—</IMF_1__12__Forecast>
+    <IMF_1__12__Year>—</IMF_1__12__Year>
+    <World_Bank_13__Estimate>3074</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2022</World_Bank_13__Year>
+    <United_Nations_14__Estimate>3075</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_/>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Central African Republic</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>2932</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>2555</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>2395</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Greenland</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>—</IMF_1__12__Forecast>
+    <IMF_1__12__Year>—</IMF_1__12__Year>
+    <World_Bank_13__Estimate>3236</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2021</World_Bank_13__Year>
+    <United_Nations_14__Estimate>2926</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_/>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Cape Verde</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>2786</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>2587</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>2314</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Gambia</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>2771</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>2340</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>2231</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Saint Lucia</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>2632</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>2520</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>2165</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Lesotho</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>2404</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>2046</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>2287</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Eritrea</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>—</IMF_1__12__Forecast>
+    <IMF_1__12__Year>—</IMF_1__12__Year>
+    <World_Bank_13__Estimate>—</World_Bank_13__Estimate>
+    <World_Bank_13__Year>—</World_Bank_13__Year>
+    <United_Nations_14__Estimate>2383</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_/>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Antigua and Barbuda</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>2373</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>2033</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>1770</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Zanzibar</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>—</IMF_1__12__Forecast>
+    <IMF_1__12__Year>—</IMF_1__12__Year>
+    <World_Bank_13__Estimate>—</World_Bank_13__Estimate>
+    <World_Bank_13__Year>—</World_Bank_13__Year>
+    <United_Nations_14__Estimate>2361</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_/>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Guinea-Bissau</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>2274</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>1966</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>1574</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Seychelles</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>2198</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>2141</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>1994</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Timor-Leste</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>2115</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>2243</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>3204</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>San Marino</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>2047</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>1855</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2021</World_Bank_13__Year>
+    <United_Nations_14__Estimate>1780</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Solomon Islands</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>1707</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>1631</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>1597</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Sint Maarten</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>—</IMF_1__12__Forecast>
+    <IMF_1__12__Year>—</IMF_1__12__Year>
+    <World_Bank_13__Estimate>1623</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>1572</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_/>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Comoros</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>1548</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>1352</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>1246</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Grenada</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>1464</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>1320</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>1192</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Turks and Caicos Islands</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>—</IMF_1__12__Forecast>
+    <IMF_1__12__Year>—</IMF_1__12__Year>
+    <World_Bank_13__Estimate>1402</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>1138</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_/>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Vanuatu</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>1267</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>1126</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>985</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Saint Vincent and the Grenadines</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>1242</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>1066</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>946</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Samoa</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>1160</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>934</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>857</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Saint Kitts and Nevis</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>1129</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>1077</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>979</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>São Tomé and Príncipe</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>864</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>603</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>546</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Dominica</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>742</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>654</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>612</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Tonga</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>568</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>500</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2022</World_Bank_13__Year>
+    <United_Nations_14__Estimate>488</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Micronesia</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>500</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>460</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>427</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Palau</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>333</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>263</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>225</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Kiribati</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>312</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>279</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>223</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Marshall Islands</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>297</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>284</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>279</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Nauru</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>169</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>154</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>147</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+  <row>
+    <Country_Territory_Country_Territory>Tuvalu</Country_Territory_Country_Territory>
+    <IMF_1__12__Forecast>65</IMF_1__12__Forecast>
+    <IMF_1__12__Year>2025</IMF_1__12__Year>
+    <World_Bank_13__Estimate>62</World_Bank_13__Estimate>
+    <World_Bank_13__Year>2023</World_Bank_13__Year>
+    <United_Nations_14__Estimate>59</United_Nations_14__Estimate>
+    <United_Nations_14__Year>2022</United_Nations_14__Year>
+    <close_time_>2025-01-01 00:00:00</close_time_>
+  </row>
+</data>

@@ -1,0 +1,25 @@
+To access the server, open this file in a browser:
+        file:///C:/Users/NITRO/AppData/Roaming/jupyter/runtime/jpserver-13316-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/tree?token=74cf2c2f56bfc135717bf953aba5f1839996f5eca8c766cb
+        http://127.0.0.1:8888/tree?token=74cf2c2f56bfc135717bf953aba5f1839996f5eca8c766cb
+
+--on terminal cmd or vs code:
+--Connecting to server
+jupyter notebook
+
+--check modules in python
+pip show jupyter
+
+pip install --upgrade jupyter notebook
+
+-- if jupyter refuses to connect:
+
+jupyter notebook --debug
+
+jupyter notebook list
+
+-- checking the kernel if not install:
+
+pip install -U ipykernel
+python.exe -m pip install --upgrade pip
